@@ -242,7 +242,7 @@ Windows:
 
 ### Uscire dalla command line
 
-Questo è tutto per ora! puoi tranquillamente chiudere la tua command line. Facciamolo alla maniera degli hacker, va bene?:)
+Questo è tutto per ora! Puoi tranquillamente chiudere la tua command line. Facciamolo alla maniera degli hacker, va bene?:)
 
     $ exit
     
